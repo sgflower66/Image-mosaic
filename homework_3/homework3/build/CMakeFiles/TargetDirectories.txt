@@ -1,3 +1,0 @@
-E:/vs2015_project/study_zty/homework/homework_3/homework3/build/CMakeFiles/homework.dir
-E:/vs2015_project/study_zty/homework/homework_3/homework3/build/CMakeFiles/ALL_BUILD.dir
-E:/vs2015_project/study_zty/homework/homework_3/homework3/build/CMakeFiles/ZERO_CHECK.dir

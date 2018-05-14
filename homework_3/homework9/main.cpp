@@ -3,18 +3,26 @@
 
 void  main()
 {
-	int jm(int);
-	int a;
+	int n,i,j,k;
 	printf(" ‰»Î£∫");
-	scanf("%d", &a);
-	printf("In normal order£¨the digitals are %d%d%d%d\n", jm((a % 100) / 10), jm(a % 10), jm(a / 1000), jm((a % 1000) / 100));
+	scanf("%d", &n);
+	for (i = 1; i <= n; i++)
+	{
+		for (k = 1; k <= n - i; k++)
+		{
+			printf(" ");
+		}
+
+		for (j = 1; j <= i; j++)
+		{
+			printf("%d", i);
+			printf(" ");
+		}
+		printf("\n");
+	}
+	
+	
 	system("pause");
 
 }
 
-int jm(int x)
-{
-	int y;
-	y = (x + 9) % 10;
-	return y;
-}

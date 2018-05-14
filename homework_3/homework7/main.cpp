@@ -1,18 +1,26 @@
 #include <stdio.h>
 #include <iostream>
+void main()
 
-void  main()
 {
-	int time1, time2, hours, mins,t1,t2,t3,t4;
-	printf(" ‰»Î:");
-	scanf("%d %d", &time1,&time2);
-	t1 = time1 / 100;
-	t2 = time1 % 100;
-	t3 = time2 / 100;
-	t4 = time2 % 100;
-	hours= t3-1-t1+ (t4 + 60 - t2) / 60;
-	mins = (t4+60-t2)%60;
-	printf(" ‰≥ˆ£∫The train journey time is %d hrs %d mins. \n", hours,mins);
-	system("pause");
 
+	long term = 0, sum = 0;
+
+	int a, i, n;
+
+	printf("Input a(1~9),n:");
+
+	scanf("%d,%d", &a, &n);
+
+	for (i = 1; i <= n; i++)
+
+	{
+
+		term = term * 10 + a;
+		sum = sum + term;
+
+	}
+
+	printf("sum=%ld\n", sum);
+	system("pause");
 }
