@@ -3,32 +3,30 @@
 
 void  main()
 {
-	int a;
-	scanf("%d", &a);
-	printf("you put : %5d \n", a);
-	printf("In normal order，the digitals are %d,%d,%d,%d,%d\n", a/10000, (a%10000)/1000, (a % 1000) / 100, (a % 100) / 10,a%10);
-	printf("In reverse，they are %d,%d,%d,%d,%d\n", a % 10,(a % 100) / 10,  (a % 1000) / 100, (a % 10000) / 1000, a / 10000);
+	int n,m,k, i;
+	float a, b, c, area, perimeter, s;
+	printf("输入n m k:");
+	scanf("%d %d %d", &n,&m,&k);
+
+	for (i = 1; i <= repeat; i++)
+	{
+		printf("输入三角形三条边a b c:");
+		scanf("%f %f %f", &a, &b, &c);
+		if (a + b > c&&a + c > b&& c + b > a)
+		{
+			s = (a + b + c) / 2;
+			area = sqrt(s*(s - a)*(s - b)*(s - c));
+			perimeter = a + b + c;
+			printf(" area is %.2f ,perimeter is %.2f,\n", area, perimeter);
+		}
+
+		else
+			printf("These sides do not correspond to a valid triangle\n");
+
+
+	}
+
 	system("pause");
 
+
 }
-
-/*
-int main(void)
-{
-	int x;
-
-	printf("Please input a number: ");
-	scanf("%d", &x);
-
-	if (x>9999 && x<1000000) {
-		do {
-			printf("%d", x /10);
-			x = x % 10;
-		} while (x>0);
-	}
-	else
-		printf("Data error.");
-
-	return 0;
-}
-*/
