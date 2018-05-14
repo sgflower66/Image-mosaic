@@ -1,4 +1,3 @@
-# project
-
+# first stage:
 
 my c homework
