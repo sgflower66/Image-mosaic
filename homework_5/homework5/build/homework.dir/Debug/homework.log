@@ -1,7 +1,6 @@
 ﻿  main.cpp
-E:\vs2015_project\study_zty\homework\homework_5\homework5\main.cpp(13): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
-E:\vs2015_project\study_zty\homework\homework_5\homework5\main.cpp(9): warning C4101: “i”: 未引用的局部变量
-E:\vs2015_project\study_zty\homework\homework_5\homework5\main.cpp(9): warning C4101: “length”: 未引用的局部变量
-E:\vs2015_project\study_zty\homework\homework_5\homework5\main.cpp(7): warning C4101: “str”: 未引用的局部变量
+E:\vs2015_project\study_zty\homework\homework_5\homework5\main.cpp(30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2015_project\study_zty\homework\homework_5\homework5\main.cpp(38): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+E:\vs2015_project\study_zty\homework\homework_5\homework5\main.cpp(34): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
   homework.vcxproj -> E:\vs2015_project\study_zty\homework\homework_5\homework5\build\Debug\homework.exe
   homework.vcxproj -> E:/vs2015_project/study_zty/homework/homework_5/homework5/build/Debug/homework.pdb (Full PDB)
