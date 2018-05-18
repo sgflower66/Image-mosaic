@@ -1,4 +1,4 @@
-#define bj 1000
+#define bj 1000//所有DEFINE 应该大写
 #include "stdio.h"
 #include "math.h"
 #include <iostream>
