@@ -1,0 +1,343 @@
+The system is: Windows - 10.0.16299 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) ��������汾 14.0.25420.1
+��Ȩ����(C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2018/5/17 19:17:37��
+�ڵ� 1 �ϵ���Ŀ��D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\3.11.0\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdC.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdC.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\3.11.0\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=D:\vs2015\vs_install_me\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdC.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\3.11.0\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.30
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/3.11.0/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) ��������汾 14.0.25420.1
+��Ȩ����(C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2018/5/17 19:17:39��
+�ڵ� 1 �ϵ���Ŀ��D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\3.11.0\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdCXX.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdCXX.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\3.11.0\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=D:\vs2015\vs_install_me\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdCXX.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\3.11.0\CompilerIdCXX\CompilerIdCXX.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.07
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/3.11.0/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_72812.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 19:17:40。
+节点 1 上的项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_72812.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_72812.dir\Debug\”。
+  正在创建目录“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_72812.dir\Debug\cmTC_72812.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_72812.dir\Debug\cmTC_72812.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_72812.dir\Debug\\" /Fd"cmTC_72812.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_72812.dir\Debug\\" /Fd"cmTC_72812.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_72812.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_72812.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_72812.lib" /MACHINE:X64  /machine:x64 cmTC_72812.dir\Debug\testCCompiler.obj
+  cmTC_72812.vcxproj -> D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_72812.exe
+  cmTC_72812.vcxproj -> D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_72812.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_72812.dir\Debug\cmTC_72812.tlog\unsuccessfulbuild”。
+  正在对“cmTC_72812.dir\Debug\cmTC_72812.tlog\cmTC_72812.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_72812.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.18
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_8aa02.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 19:17:42。
+节点 1 上的项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_8aa02.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_8aa02.dir\Debug\”。
+  正在创建目录“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_8aa02.dir\Debug\cmTC_8aa02.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_8aa02.dir\Debug\cmTC_8aa02.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8aa02.dir\Debug\\" /Fd"cmTC_8aa02.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "D:\cmake\share\cmake-3.11\Modules\CMakeCCompilerABI.c"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8aa02.dir\Debug\\" /Fd"cmTC_8aa02.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "D:\cmake\share\cmake-3.11\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_8aa02.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_8aa02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_8aa02.lib" /MACHINE:X64  /machine:x64 cmTC_8aa02.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_8aa02.vcxproj -> D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_8aa02.exe
+  cmTC_8aa02.vcxproj -> D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_8aa02.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_8aa02.dir\Debug\cmTC_8aa02.tlog\unsuccessfulbuild”。
+  正在对“cmTC_8aa02.dir\Debug\cmTC_8aa02.tlog\cmTC_8aa02.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_8aa02.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.39
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_afadc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 19:17:44。
+节点 1 上的项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_afadc.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_afadc.dir\Debug\”。
+  正在创建目录“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_afadc.dir\Debug\cmTC_afadc.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_afadc.dir\Debug\cmTC_afadc.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_afadc.dir\Debug\\" /Fd"cmTC_afadc.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_afadc.dir\Debug\\" /Fd"cmTC_afadc.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_afadc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_afadc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_afadc.lib" /MACHINE:X64  /machine:x64 cmTC_afadc.dir\Debug\testCXXCompiler.obj
+  cmTC_afadc.vcxproj -> D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_afadc.exe
+  cmTC_afadc.vcxproj -> D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_afadc.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_afadc.dir\Debug\cmTC_afadc.tlog\unsuccessfulbuild”。
+  正在对“cmTC_afadc.dir\Debug\cmTC_afadc.tlog\cmTC_afadc.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_afadc.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.05
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c70ce.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 19:17:45。
+节点 1 上的项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_c70ce.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_c70ce.dir\Debug\”。
+  正在创建目录“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_c70ce.dir\Debug\cmTC_c70ce.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_c70ce.dir\Debug\cmTC_c70ce.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c70ce.dir\Debug\\" /Fd"cmTC_c70ce.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "D:\cmake\share\cmake-3.11\Modules\CMakeCXXCompilerABI.cpp"
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c70ce.dir\Debug\\" /Fd"cmTC_c70ce.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue "D:\cmake\share\cmake-3.11\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_c70ce.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_c70ce.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_c70ce.lib" /MACHINE:X64  /machine:x64 cmTC_c70ce.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_c70ce.vcxproj -> D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_c70ce.exe
+  cmTC_c70ce.vcxproj -> D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_c70ce.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_c70ce.dir\Debug\cmTC_c70ce.tlog\unsuccessfulbuild”。
+  正在对“cmTC_c70ce.dir\Debug\cmTC_c70ce.tlog\cmTC_c70ce.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_c70ce.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.13
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_08b5a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) 生成引擎版本 14.0.25420.1
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 19:17:47。
+节点 1 上的项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_08b5a.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_08b5a.dir\Debug\”。
+  正在创建目录“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_08b5a.dir\Debug\cmTC_08b5a.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_08b5a.dir\Debug\cmTC_08b5a.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_08b5a.dir\Debug\\" /Fd"cmTC_08b5a.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\feature_tests.cxx
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.00.24215.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_08b5a.dir\Debug\\" /Fd"cmTC_08b5a.dir\Debug\vc140.pdb" /Gd /TP /errorReport:queue D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  D:\vs2015\vs_install_me\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_08b5a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_08b5a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_08b5a.lib" /MACHINE:X64  /machine:x64 cmTC_08b5a.dir\Debug\feature_tests.obj
+  cmTC_08b5a.vcxproj -> D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\Debug\cmTC_08b5a.exe
+  cmTC_08b5a.vcxproj -> D:/study_zty/homework/homework_2/homework5/build/CMakeFiles/CMakeTmp/Debug/cmTC_08b5a.pdb (Full PDB)
+FinalizeBuildStatus:
+  正在删除文件“cmTC_08b5a.dir\Debug\cmTC_08b5a.tlog\unsuccessfulbuild”。
+  正在对“cmTC_08b5a.dir\Debug\cmTC_08b5a.tlog\cmTC_08b5a.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\study_zty\homework\homework_2\homework5\build\CMakeFiles\CMakeTmp\cmTC_08b5a.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.07
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
